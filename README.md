@@ -1,3 +1,3 @@
 ### Hi Selamat Datang Di github Saya
 
-![gambar](https://gt-pyephoto-api.onrender.com/gusti?text=Gusti)
+<img src="https://gt-pyephoto-api.onrender.com/gusti?text=Gusti" width="100%" alt="gambar"/>
