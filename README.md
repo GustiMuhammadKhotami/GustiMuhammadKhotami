@@ -1,3 +1,4 @@
 ### Hi Selamat Datang Di github Saya
 
-<img src="https://Gt-pyephoto-api.onrender.com/gusti?text=Gusti" width="100%" alt="gambar"/>
+#### refresh halaman dan gambar dibawah akan berubah
+<img src="https://gt-gitcoolname.vercel.app/gusti?text=Gusti" width="100%" alt="gambar"/>
